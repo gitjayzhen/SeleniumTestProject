@@ -1,0 +1,345 @@
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 43 - beforeSuite] ======2016-05-18 22:36:06:432000：测试集开始======
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-05-18 22:36:06:490000：测试【login_lab.Login】开始======
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-05-18 22:36:25] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-05-18 22:36:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-05-18 22:36:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\login\login_lab.py - 36 - test_login_labPlatf] Login.test_login_labPlatf测试用例已执行
+[2016-05-18 22:36:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:36:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:36:42] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:36:46] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-05-18 22:36:53:629000：测试【login_lab.Login】结束======
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 47.138999939 秒！======
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:36:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-05-18 22:37:01] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-05-18 22:37:01] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:01] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:01] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:01] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-05-18 22:37:01:855000：测试【studentSignin.Signin】开始======
+[2016-05-18 22:37:01] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:01] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的db.ini文件存在
+[2016-05-18 22:37:02] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\login\signin_lab_mysql.py - 40 - test_student_singin] SignIn.test_student_singin 测试用例已执行
+[2016-05-18 22:37:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:11] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:11] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:15] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:15] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:15] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:17] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:17] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:18] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:18] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:18] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:19] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:19] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:19] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-05-18 22:37:20:770000：测试【studentSignin.Signin】结束======
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 18.9149999619 秒！======
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-05-18 22:37:20:786000：测试【PersonalCenter】开始======
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-05-18 22:37:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-05-18 22:37:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:29] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:29] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-05-18 22:37:29] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\TesterPage\personal_center.py - 34 - test_tester_Personal_Center] test_PersonalCenter.test_tester_Personal_Center测试用例已执行
+[2016-05-18 22:37:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:37:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:33] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:33] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:38] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:38] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-05-18 22:37:39:746000：测试【PersonalCenter】结束======
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 18.9600000381 秒！======
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-05-18 22:37:39:758000：测试【LaboratoryManagement】开始======
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:39] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-05-18 22:37:48] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-05-18 22:37:49] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:49] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:49] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:49] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-05-18 22:37:49] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\TesterLabAdmin\laboratory_management.py - 35 - test_LaboratoryManagement] LaboratoryManagement.test_LaboratoryManagement测试用例已执行
+[2016-05-18 22:37:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:37:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:53] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:54] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:55] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:37:55] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-05-18 22:37:56:395000：测试【LaboratoryManagement】结束======
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 16.6370000839 秒！======
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-05-18 22:37:56:428000：测试【ApplyLab】开始======
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:37:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-05-18 22:38:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-05-18 22:38:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-05-18 22:38:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\TeacherPage\apply_for_lab.py - 35 - test_ApplyLab] ApplyLab.test_ApplyLab测试用例已执行
+[2016-05-18 22:38:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:38:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:38:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:38:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:38:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:38:15] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【isElementPresent】 运行通过！
+[2016-05-18 22:38:15] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【selectByValue】 运行通过！
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【isElementPresent】 运行通过！
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【selectByValue】 运行通过！
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-05-18 22:38:16:318000：测试【ApplyLab】结束======
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 19.8900001049 秒！======
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-05-18 22:38:16:328000：测试【Class_Management】开始======
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-05-18 22:38:25] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-05-18 22:38:25] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:25] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:26] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-05-18 22:38:26] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-05-18 22:38:26] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\WebAdminPage\class_management.py - 34 - test_ClassManagement] Class_Management.test_ClassManagement测试用例已执行
+[2016-05-18 22:38:30] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-05-18 22:38:30] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:31] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:31] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:31] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:38:31] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:38:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-05-18 22:38:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-05-18 22:38:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-05-18 22:38:32:767000：测试【Class_Management】结束======
+[2016-05-18 22:38:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 16.4389998913 秒！======
+[2016-05-18 22:38:38] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的email.ini文件存在
+[2016-05-18 22:38:41] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 48 - afterSuite] ======2016-05-18 22:38:41:236000：测试集结束======
+[2016-05-18 22:38:41] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 49 - afterSuite] ======本次测试集运行消耗时间 154.802999973 秒！======
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 43 - beforeSuite] ======2016-08-05 21:45:56:863000：测试集开始======
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-08-05 21:45:56:895000：测试【login_lab.Login】开始======
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:45:56] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-08-05 21:46:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-08-05 21:46:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:16] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:17] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-08-05 21:46:17] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\login\login_lab.py - 36 - test_login_labPlatf] Login.test_login_labPlatf测试用例已执行
+[2016-08-05 21:46:24] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:46:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:46:32] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:46:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-08-05 21:46:44:390000：测试【login_lab.Login】结束======
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 47.495000124 秒！======
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:44] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-08-05 21:46:51] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-08-05 21:46:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-08-05 21:46:52:697000：测试【studentSignin.Signin】开始======
+[2016-08-05 21:46:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:46:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的db.ini文件存在
+[2016-08-05 21:46:58] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\login\signin_lab_mysql.py - 40 - test_student_singin] SignIn.test_student_singin 测试用例已执行
+[2016-08-05 21:46:58] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:46:58] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:46:59] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:02] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:06] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:09] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:09] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:09] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:10] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:10] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:10] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:11] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:11] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:11] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-08-05 21:47:14:693000：测试【studentSignin.Signin】结束======
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 21.9960000515 秒！======
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-08-05 21:47:14:835000：测试【PersonalCenter】开始======
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:14] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-08-05 21:47:21] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-08-05 21:47:22] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:22] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:22] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:22] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-08-05 21:47:22] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\TesterPage\personal_center.py - 34 - test_tester_Personal_Center] test_PersonalCenter.test_tester_Personal_Center测试用例已执行
+[2016-08-05 21:47:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:47:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:29] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:30] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:33] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:34] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-08-05 21:47:37:095000：测试【PersonalCenter】结束======
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 22.2599999905 秒！======
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-08-05 21:47:37:114000：测试【LaboratoryManagement】开始======
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:37] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-08-05 21:47:46] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-08-05 21:47:46] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:46] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:46] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:46] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-08-05 21:47:46] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\TesterLabAdmin\laboratory_management.py - 35 - test_LaboratoryManagement] LaboratoryManagement.test_LaboratoryManagement测试用例已执行
+[2016-08-05 21:47:50] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:47:50] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:50] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:51] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-08-05 21:47:52:788000：测试【LaboratoryManagement】结束======
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 15.6740000248 秒！======
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-08-05 21:47:52:798000：测试【ApplyLab】开始======
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:47:52] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-08-05 21:48:02] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-08-05 21:48:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-08-05 21:48:03] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\TeacherPage\apply_for_lab.py - 35 - test_ApplyLab] ApplyLab.test_ApplyLab测试用例已执行
+[2016-08-05 21:48:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:48:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:07] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:48:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:48:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:48:08] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:48:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【isElementPresent】 运行通过！
+[2016-08-05 21:48:12] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【selectByValue】 运行通过！
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【isElementPresent】 运行通过！
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【selectByValue】 运行通过！
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-08-05 21:48:13:292000：测试【ApplyLab】结束======
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 20.493999958 秒！======
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 54 - beforeClass] ======2016-08-05 21:48:13:307000：测试【Class_Management】开始======
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的RunWhichBrowser.ini文件存在
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的driverpath.conf文件存在
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:13] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\BrowserDriverConfig.py - 51 - get_FirefoxDrvier] 获取到Firefox Driver
+[2016-08-05 21:48:20] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\browser\Init_Webdriver.py - 57 - startFirefoxDriver] 初始化火狐浏览器成功
+[2016-08-05 21:48:21] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:21] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:21] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的framework.ini文件存在
+[2016-08-05 21:48:21] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\util\FileCheckAndGetPath.py - 43 - check_has_file] 查找的UsersLogin.xls文件存在
+[2016-08-05 21:48:21] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\labautotest\TestCase\WebAdminPage\class_management.py - 34 - test_ClassManagement] Class_Management.test_ClassManagement测试用例已执行
+[2016-08-05 21:48:25] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 112 - operationCheck] method 【administrator_login】 运行通过！
+[2016-08-05 21:48:25] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:26] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:26] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:26] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:48:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:48:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【webList_RandomSelectByOption】 运行通过！
+[2016-08-05 21:48:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:27] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 60 - operationCheck] method 【findElements】 运行通过！
+[2016-08-05 21:48:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 59 - afterClass] ======2016-08-05 21:48:28:031000：测试【Class_Management】结束======
+[2016-08-05 21:48:28] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 60 - afterClass] ======本次测试运行消耗时间 14.7239999771 秒！======
+[2016-08-05 21:48:34] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 48 - afterSuite] ======2016-08-05 21:48:34:035000：测试集结束======
+[2016-08-05 21:48:34] [info] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\basecase\WebDriverBaseCase.py - 49 - afterSuite] ======本次测试集运行消耗时间 157.17200017 秒！======

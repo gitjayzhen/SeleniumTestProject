@@ -1,0 +1,12 @@
+[2016-05-18 22:38:15] [error] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 326 - is_Displayed] element元素没有点位到Message: Unable to locate element: {"method":"class name","selector":"layui-layer-btn0"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///c:/users/jayzhen/appdata/local/temp/tmpjpgm3d/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/jayzhen/appdata/local/temp/tmpjpgm3d/extensions/fxdriver@googlecode.com/components/driver-component.js:625)
+[2016-08-05 21:48:10] [error] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 326 - is_Displayed] element元素没有点位到Message: Unable to locate element: {"method":"class name","selector":"layui-layer-btn0"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///c:/users/jayzhen/appdata/local/temp/tmpmx_cut/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/jayzhen/appdata/local/temp/tmpmx_cut/extensions/fxdriver@googlecode.com/components/driver-component.js:625)
+[2016-08-05 21:48:12] [error] [W:\eclipse\workspace\LabDigitalPlatform_by_python_test\src\com\framework\webdriver\baseapi\WebdriverBaseApi.py - 326 - is_Displayed] element元素没有点位到Message: Unable to locate element: {"method":"class name","selector":"layui-layer-btn0"}
+Stacktrace:
+    at FirefoxDriver.prototype.findElementInternal_ (file:///c:/users/jayzhen/appdata/local/temp/tmpmx_cut/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+    at fxdriver.Timer.prototype.setTimeout/<.notify (file:///c:/users/jayzhen/appdata/local/temp/tmpmx_cut/extensions/fxdriver@googlecode.com/components/driver-component.js:625)
