@@ -30,7 +30,9 @@ class WebDriverDoBeforeTest():
             self.fwInipath = fc.get_fileabspath()
         self.logger = LogObj()
         self.capturePath = os.path.join(self.projectpath,Config(self.fwInipath).get("capturePath", "capturePath"))
-    
+        if not os.path.exists(self.capturePath):
+            os.makedirs(self.capturePath)
+            
     def getDriverTooler(self,initbrowsername,baseURL):
         initbrowser = InitBrowser()
         initbrowser.beforeTestInitBrowser(initbrowsername,baseURL)

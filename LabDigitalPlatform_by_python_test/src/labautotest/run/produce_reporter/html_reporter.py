@@ -20,6 +20,8 @@ def html_reporter():
     htmreportl_abs_path = os.path.join(pro_path,htmlrp_path)
     timecurrent = DateTimeManager().formatedTime("%Y-%m-%d-%H-%M-%S")
     logger.debug("=====创建了一个html文件报告,路径是：："+htmreportl_abs_path) 
+    if not os.path.exists(htmreportl_abs_path):
+        os.makedirs(htmreportl_abs_path)
     file_path = str(htmreportl_abs_path)+timecurrent+"-LDP-TestingRreporter.html"
     try:
         if os.path.exists(file_path):

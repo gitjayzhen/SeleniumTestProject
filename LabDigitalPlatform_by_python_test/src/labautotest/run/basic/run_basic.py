@@ -18,10 +18,12 @@ list_class中的参数最小级别必须是类名，不能是方法名，不然�
 缺点是：每一次都要从新导入包，设置新的list_class
 '''
 lists_class = [
-                Login,
-                SignIn,
-                PersonalCenter,
-                LaboratoryManagement,
-                ApplyLab,
-                Class_Management
-              ]
+                Login
+                ]
+#,
+#                SignIn,
+#                PersonalCenter,
+#                LaboratoryManagement,
+#                ApplyLab,
+#                Class_Management
+#              ]

@@ -1,6 +1,7 @@
 # -*- coding:UTF-8 -*-
 
-import unittest, HTMLTestRunner    #在系统中导入所需要的框架模块
+import unittest
+import HTMLTestRunner    #在系统中导入所需要的框架模块
 from labautotest.run.produce_reporter.html_reporter import html_reporter
 from labautotest.run.basic.run_basic import lists_class
 from com.framework.logging.Recoed_Logging import LogObj
